@@ -1,4 +1,4 @@
-
+ROSE by White Rose Staking 
 
 - 👋 Hi, I’m @ROSE-Pool-Operator
 - 👀 I’m interested in ...
