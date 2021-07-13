@@ -1,16 +1,15 @@
-ROSE by White Rose Staking 
+# ROSE Pool by White Rose Staking
 
-- 👋 Hi, I’m @ROSE-Pool-Operator
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+In this project we are hosting a staking pool for cardano network. 
+We are aware our node performance hasn't kicked off yet but we believe in $ADA and like to support the decentralization
 
-<!---
-ROSE-Pool-Operator/ROSE-Pool-Operator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-WebSite Content
+If you share the mantra "Not your keys - Not your coins" please search for ROSE and delegate to our staking pool.
+
+We are a group of crypto enthusiasts with a professional background in IT
+Search for @RoseStaking
+
+
+## WebSite Content
 - Cloud hosted 24/7/365
 - Professional server security service
 - Professional admins
@@ -21,7 +20,7 @@ WebSite Content
 - Just in Time Access Permission
 - Pledge stake pool operator rewards (diagram?)
 
-=> Sections:
+### Sections:
 general 
 Stats (Pledged, delegated, Luck, Pool margin)
 advantages (decentralized, no fees, highly secured,...)
