@@ -6,6 +6,7 @@ We are aware our node performance hasn't kicked off yet but we believe in $ADA a
 If you share the mantra "Not your keys - Not your coins" please search for ROSE and delegate to our staking pool.
 
 We are a group of crypto enthusiasts with a professional background in IT
+
 Search for @RoseStaking
 
 
