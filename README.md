@@ -27,19 +27,19 @@ Search for @RoseStaking
 - Pledge: 500 
 - Rank Epoch 279: 573
 
-Ticker: ROSE
-Name: Rose Pool Staking
-Description: Professionally Operated Pool
-Total Stake: 1001
-Last Reward Epoch: 0
-Tax Ratio: 0
-Tax Fix: 340
-Lifetime ROA: 0
-Monthly ROA: 0
-Blocks Lifetime: 0
-Blocks in epoch: 0
-Pledge: 500
-Rank: 1624
+- Ticker: ROSE
+- Name: Rose Pool Staking
+- Description: Professionally Operated Pool
+- Total Stake: 1001
+- Last Reward Epoch: 0
+- Tax Ratio: 0
+- Tax Fix: 340
+- Lifetime ROA: 0
+- Monthly ROA: 0
+- Blocks Lifetime: 0
+- Blocks in epoch: 0
+- Pledge: 500
+- Rank: 1624
 
 ### Sections:
 general 
